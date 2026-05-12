@@ -95,16 +95,6 @@ Entiendo lo que implica cada decisión desde adentro: cómo se funda, cómo se g
 
 ---
 
-### 📰 Últimas publicaciones
-
-- [Quién gobierna tu código](https://msanchez.tech/blog/quien-gobierna-tu-codigo)
-- [OpenAI Websockets API: la revolución](https://msanchez.tech/blog/openai-websockets-api-revolucion)
-- [Beneficios de adoptar DevOps en las organizaciones](https://msanchez.tech/blog/beneficios-adoptar-devops-organizaciones)
-
-➡️ Lee todos los artículos en [**msanchez.tech/blog**](https://msanchez.tech/es/blog)
-
----
-
 ### 🚀 Casos de trabajo destacados
 
 | Rubro | Solución | Stack |

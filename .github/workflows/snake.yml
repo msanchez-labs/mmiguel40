@@ -17,7 +17,7 @@ jobs:
       - name: Generate snake from GitHub contributions
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: mmiguel40
+          github_user_name: msanchez-labs
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#00BFA5&color_dots=#0D1117,#1B4332,#2D6A4F,#52B788,#95D5B2
